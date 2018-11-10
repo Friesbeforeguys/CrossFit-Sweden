@@ -1,0 +1,35 @@
+p, h1, h2, h3, h4, h5, h6, h7 {
+  color: #990000;
+  font-size: 30px;
+  font-family: "courier new"
+}
+h1 {
+  background-color: black;
+  font-size: 50px;
+  color: #990000;
+}
+h2 {
+  color: #990000;;
+ }
+ h3 {
+   color: #990000;;
+ }
+ html {
+  font-family: "courier new";
+ }
+.headline {
+  color: #990000;
+}
+.center-image {
+  display: flex;
+  justify-content: center;
+}
+img {
+  width: 250px;
+  height: 250px;
+}
+.box {
+background-color: rgb(175,238,238);
+width: 100px;
+height:100px;
+}
